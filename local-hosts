@@ -1,0 +1,5 @@
+# Your own extra hosts entries, managed here and synced into /etc/hosts
+# above the StevenBlack block by stevenblack-hosts-sync.sh.
+# Plain hosts-file syntax: "<IP> <hostname> [hostname ...]", # starts a comment.
+
+127.0.0.1  serienstream.to
